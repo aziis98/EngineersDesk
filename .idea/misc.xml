@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$/../../Java/libGDX/_Workspace/CellMachine" value="5799709918194" />
-        <entry key="$PROJECT_DIR$/../../Java/libGDX/_Workspace/QVerlet" value="7251021850186" />
-        <entry key="$PROJECT_DIR$/../../Java/libGDX/_Workspace/WireGame" value="7247599040622" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
